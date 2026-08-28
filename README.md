@@ -2,6 +2,8 @@
 
 一个静态可运行、可交付的 To C VPN 购买与安装流程。
 
+视觉方向采用 ChatGPT-inspired visual language：中性白灰界面、克制绿色强调、清晰 sans typography 与轻量边框层级。
+
 ## 运行
 
 直接在浏览器中打开 `index.html`。
