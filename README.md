@@ -8,7 +8,7 @@
 
 ## 链接
 
-- GitHub 仓库：[https://github.com/monica137142/payment](https://github.com/monica137142/payment)
+- 在线预览：部署中，稍后更新
 - 本地页面入口：[index.html](./index.html)
 
 ## 流程
