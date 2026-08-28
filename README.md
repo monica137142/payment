@@ -8,7 +8,7 @@
 
 ## 链接
 
-- 在线预览：部署中，稍后更新
+- 在线预览：[https://monica137142.github.io/payment/](https://monica137142.github.io/payment/)
 - 本地页面入口：[index.html](./index.html)
 
 ## 流程
