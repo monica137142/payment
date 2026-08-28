@@ -6,6 +6,11 @@
 
 直接在浏览器中打开 `index.html`。
 
+## 链接
+
+- GitHub 仓库：[https://github.com/monica137142/payment](https://github.com/monica137142/payment)
+- 本地页面入口：[index.html](./index.html)
+
 ## 流程
 
 首页 -> 套餐 -> 支付 -> 支付成功 -> 设备选择 -> 设备安装
